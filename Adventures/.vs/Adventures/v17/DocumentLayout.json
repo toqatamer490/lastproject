@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\desktop\\toqaproject\\lastproject\\adventures\\adventures\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\desktop\\toqaproject\\lastproject\\adventures\\adventures\\asset\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\asset\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\desktop\\toqaproject\\lastproject\\adventures\\adventures\\mainlayout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\mainlayout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,33 @@
               "RelativeToolTip": "Adventures\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-08T21:16:15.25Z",
+              "WhenOpened": "2024-05-08T21:44:23.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.css",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\Asset\\CSS\\Main.css",
+              "RelativeDocumentMoniker": "Adventures\\Asset\\CSS\\Main.css",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\Asset\\CSS\\Main.css",
+              "RelativeToolTip": "Adventures\\Asset\\CSS\\Main.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-08T21:36:07.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.Master",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\MainLayout.Master",
+              "RelativeDocumentMoniker": "Adventures\\MainLayout.Master",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\MainLayout.Master",
+              "RelativeToolTip": "Adventures\\MainLayout.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T21:33:10.307Z",
               "EditorCaption": ""
             }
           ]

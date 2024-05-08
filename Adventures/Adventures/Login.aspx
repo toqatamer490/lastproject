@@ -1,27 +1,42 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="Adventures.Login" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MainLayout.Master" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="Adventures.Login1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
 
-<!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-            <asp:Label ID="Label1" runat="server" Text="Enter Your email"></asp:Label>
-            <asp:TextBox ID="Email" runat="server"></asp:TextBox>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server" >
+
+<div class="Center-from">
+    <div class="Form-contnet Login">
+        <h1 class="Form-title">Sign In</h1>
+        <div class="container">
+                              <div class="input-div">
+      <asp:Label ID="Label1" runat="server" Text="Enter Your Email"></asp:Label>
+      <asp:TextBox placeholder="Enter Your Email" ID="Email" runat="server"></asp:TextBox>
+  </div>
+
+   <div class="input-div">
+      <asp:Label ID="Label2" runat="server" Text="Enter Your password"></asp:Label>
+      <asp:TextBox placeholder="Enter Your password" type="password" ID="password" runat="server"></asp:TextBox>
+  </div>
+
+  <div  class="input-div"> 
+      <asp:Label ID="Label3" runat="server" Text="Enter Your Phone"></asp:Label>
+      <asp:TextBox placeholder="Enter Your Phone number" ID="phone" runat="server"></asp:TextBox>
+  </div>
+            <div class="Login-submit">
+
+                <asp:Button cssClass="btn submit" ID="Button1" runat="server" Text="Log In" />
+            </div>
+
         </div>
 
-         <div>
-            <asp:Label ID="Label2" runat="server" Text="Enter Your password"></asp:Label>
-            <asp:TextBox type="password" ID="password" runat="server"></asp:TextBox>
-        </div>
+     
+    </div>
 
-        <div>
-            <asp:Label ID="Label3" runat="server" Text="Enter Your Phone"></asp:Label>
-            <asp:TextBox ID="phone" runat="server"></asp:TextBox>
-        </div>
-    </form>
-</body>
-</html>
+
+</div>
+
+
+
+</asp:Content>

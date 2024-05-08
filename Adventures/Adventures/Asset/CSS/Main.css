@@ -1,0 +1,118 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+
+:root {
+    --main-color: #E8D8C4B5;
+    --sec-color: #803D3B;
+    --main-border-raduis: 10px;
+    --background-input: #E8D8C4;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    scroll-behavior:smooth;
+}
+
+
+a{
+    text-decoration:none;
+    color:black;
+
+}
+
+li{
+    list-style:none;
+}
+
+body {
+    font-family: "Inria Serif", serif;
+    color:black;
+    background-color:var(--main-color);
+}
+
+input {
+    border-radius: var(--main-border-raduis);
+    outline: none !important;
+    border-color: black !important;
+    border-style: solid;
+    
+}
+
+.input-div {
+    display: flex;
+    flex-direction: column;
+    margin:20px;
+}
+.input-div input{
+    height:50px;
+}
+.input-div span {
+    color: var(--background-input);
+    font-size:20px
+}
+    .Center-from {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height:100vh;
+    }
+    .Center-from .Form-contnet {
+        width: 40%;
+    }
+
+    @media screen and (max-width:1000px){
+        .Center-from .Form-contnet {
+            width: 80%;
+        }
+    }
+
+.Login{
+    background-color: var(--sec-color);
+    padding: 60px 30px;
+    border-radius:10px;
+}
+
+.Login input {
+    background-color:var(--background-input);
+    opacity:1;
+    z-index:100;
+    border-color:var(--background-input) !important;
+}
+.Login input::placeholder{
+    padding:10px;
+    color:var(--sec-color);
+    
+}
+
+
+.Form-title{
+    text-align:center;
+    color:var(--background-input);
+}
+
+.btn.submit {
+    width: 295px;
+    height: 44px;
+
+
+    border-radius: 10px;
+    border: 1px;
+   
+}
+btn.submit:hover{
+    background-color:var(--background-input) !important;
+}
+.Login-submit input:hover{
+    /*color:var(--sec-color) !important;*/
+    background-color:var(--background-input) !important;
+}
+
+.Login-submit {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    margin: 10px 0;
+}
