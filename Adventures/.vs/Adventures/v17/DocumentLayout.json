@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\desktop\\toqaproject\\lastproject\\adventures\\adventures\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\Login.aspx",
+              "RelativeDocumentMoniker": "Adventures\\Login.aspx",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\Login.aspx",
+              "RelativeToolTip": "Adventures\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T21:16:15.25Z",
+              "EditorCaption": ""
             }
           ]
         }
