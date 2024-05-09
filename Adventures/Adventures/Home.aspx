@@ -15,7 +15,7 @@
               <div class="price"> <del>120$</del> 80$ </div>
             </div>
             <div class="single-product col-12 col-md-6 col-lg-3">
-              <img src="Asset/images/Products/4.jpg" alt="">
+              <img src="https://www.neelwafurat.com/images/lb/abookstore/covers/normal/242/242426.jpg" width="250" height="375" alt="">
               <h2 class="title">title</h2>
               <div class="price"> <del>120$</del> 80$ </div>
             </div>
