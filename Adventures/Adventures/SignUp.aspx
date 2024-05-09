@@ -5,12 +5,26 @@
 
     <div class="Center-from">
     <div class="Form-contnet Login">
+       
+             <asp:Label ID="Label5" Visible="true" style="display: block;
+                   width: 100%;
+                 text-align: center;
+                 position: relative;"
+                 
+                 CssClass="alert alert-success Backmessage" runat="server" Text="Label">
+
+                 <asp:Label style="" ID="Label6" runat="server" Text="X"></asp:Label>
+             </asp:Label>
+         
+      
+        
         <h1 class="Form-title">Sign Up</h1>
         <div class="container">
 
  <div class="input-div">
       <asp:Label ID="Label4" runat="server" Text="Username"><asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ErrorMessage="*" ControlToValidate="username" CssClass="Error-msg"></asp:RequiredFieldValidator> </asp:Label>
       <asp:TextBox placeholder="Enter Your Username" ID="username" runat="server"></asp:TextBox>
+      
   </div>
 
    <div class="input-div">

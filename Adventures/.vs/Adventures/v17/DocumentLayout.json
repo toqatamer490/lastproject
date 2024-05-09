@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\adventures\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\source\\repos\\toqaproject\\lastproject\\adventures\\adventures\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\source\\repos\\toqaproject\\lastproject\\adventures\\adventures\\traits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\adventures\\traits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\traits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,8 +54,7 @@
               "RelativeToolTip": "Adventures\\traits.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:40:45.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T11:40:45.059Z"
             },
             {
               "$type": "Document",
@@ -126,7 +125,6 @@
               "RelativeDocumentMoniker": "Adventures\\MainLayout.Master",
               "ToolTip": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\MainLayout.Master",
               "RelativeToolTip": "Adventures\\MainLayout.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-05-08T21:33:10.307Z",
               "EditorCaption": ""
