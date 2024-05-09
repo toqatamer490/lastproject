@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\desktop\\toqaproject\\lastproject\\adventures\\adventures\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\desktop\\toqaproject\\lastproject\\adventures\\adventures\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\desktop\\toqaproject\\lastproject\\adventures\\adventures\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\desktop\\toqaproject\\lastproject\\adventures\\adventures\\asset\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\adventures\\asset\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\asset\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\desktop\\toqaproject\\lastproject\\adventures\\adventures\\mainlayout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\adventures\\mainlayout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\mainlayout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "Adventures\\SignUp.aspx.cs",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\SignUp.aspx.cs",
+              "RelativeToolTip": "Adventures\\SignUp.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:00:41.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\SignUp.aspx",
+              "RelativeDocumentMoniker": "Adventures\\SignUp.aspx",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\SignUp.aspx",
+              "RelativeToolTip": "Adventures\\SignUp.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T23:30:34.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\Login.aspx",
               "RelativeDocumentMoniker": "Adventures\\Login.aspx",
@@ -43,20 +77,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Main.css",
               "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\Asset\\CSS\\Main.css",
               "RelativeDocumentMoniker": "Adventures\\Asset\\CSS\\Main.css",
               "ToolTip": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\Asset\\CSS\\Main.css",
               "RelativeToolTip": "Adventures\\Asset\\CSS\\Main.css",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAASAAAA",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAcwHMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-08T21:36:07.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainLayout.Master",
               "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\ToqaProject\\lastproject\\Adventures\\Adventures\\MainLayout.Master",
               "RelativeDocumentMoniker": "Adventures\\MainLayout.Master",

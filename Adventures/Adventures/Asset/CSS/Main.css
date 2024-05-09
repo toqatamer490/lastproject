@@ -96,8 +96,8 @@ input {
 .btn.submit {
     width: 295px;
     height: 44px;
-
-
+    border-color:var(--main-color) ;
+    color:var(--main-color);
     border-radius: 10px;
     border: 1px;
    
@@ -113,6 +113,30 @@ btn.submit:hover{
 .Login-submit {
     display: flex;
     justify-content: center;
-    font-style: italic;
-    margin: 10px 0;
+    font-style: normal;
+    margin: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+
+    .Login-submit input,
+    .Login-submit input:hover{
+        color: var(--background-input) !important;
+        background-color: var(--sec-color) !important;
+        opacity: 1 !important;
+        background: var(--sec-color) !important;
+        border: 1px solid var(--background-input) !important;
+    }
+.Login-submit  p{
+
+    color:var(--background-input)
+}
+    .Login-submit p a {
+        opacity: 1;
+        color: var(--background-input)
+    }
+
+.Error-msg{
+    color:red !important;
+    margin-left:5px;
 }
