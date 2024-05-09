@@ -27,7 +27,7 @@
                 Pages
               </button>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Home</a></li>
+                <li><a class="dropdown-item" href="Home.aspx">Home</a></li>
                 <li><a class="dropdown-item" href="#">Store</a></li>
                 <li><a class="dropdown-item" href="#">Cart</a></li>
               </ul>
@@ -44,8 +44,9 @@
                 My account
               </button>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Log in</a></li>
-                <li><a class="dropdown-item" href="#">Sign up</a></li>
+                <li><a class="dropdown-item" href="Login.aspx">Log in</a></li>
+                <li><a class="dropdown-item" href="SignUp.aspx">Sign up</a></li>
+                
   
               </ul>
             </div>
