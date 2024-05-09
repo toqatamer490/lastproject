@@ -17,8 +17,18 @@ namespace Adventures
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-          int status =   SqlDataSource1.Insert();
-            Label5.Text = status.ToString();
+            int status;
+            try
+            { 
+                status = SqlDataSource1.Insert();
+                 Response.Redirect("~/Home.aspx");                        
+            }
+            catch (Exception ex)
+            {
+                Label5.Visible = true;
+            }
+
+     
         }
     }
 }

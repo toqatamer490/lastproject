@@ -6,14 +6,14 @@
     <div class="Center-from">
     <div class="Form-contnet Login">
        
-             <asp:Label ID="Label5" Visible="true" style="display: block;
+             <asp:Label ID="Label5" Visible="false" style="display: block;
                    width: 100%;
                  text-align: center;
                  position: relative;"
                  
-                 CssClass="alert alert-success Backmessage" runat="server" Text="Label">
+                 CssClass="alert alert-danger Backmessage" runat="server" Text="You must Enter unique Email">
 
-                 <asp:Label style="" ID="Label6" runat="server" Text="X"></asp:Label>
+                
              </asp:Label>
          
       
@@ -43,7 +43,7 @@
       <asp:Label ID="Label3" runat="server" Text="Confirm Password">
           <asp:CompareValidator ID="CompareValidator1" runat="server" ControlToCompare="cnfpassword" ControlToValidate="password" CssClass="Error-msg" ErrorMessage="must be same password"></asp:CompareValidator></asp:Label>
       <asp:TextBox placeholder="Plase re-Enter your password" ID="cnfpassword" runat="server"></asp:TextBox>
-      <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ayaConnectionString %>" InsertCommand="insert into Users (username , email, password) values (@username , @email, @password)" ProviderName="<%$ ConnectionStrings:ayaConnectionString.ProviderName %>" SelectCommand="select * from Users">
+      <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:BookConnectionString %>" InsertCommand="insert into [Users] (username, email, password) values (@username,@email, @password)" ProviderName="<%$ ConnectionStrings:BookConnectionString.ProviderName %>" SelectCommand="Select * from [Users]">
           <InsertParameters>
               <asp:ControlParameter ControlID="username" Name="username" PropertyName="Text" />
               <asp:ControlParameter ControlID="Email" Name="email" PropertyName="Text" />

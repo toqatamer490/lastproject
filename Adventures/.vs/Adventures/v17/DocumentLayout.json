@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\source\\repos\\toqaproject\\lastproject\\adventures\\adventures\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\adventures\\traits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\traits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\adventures\\mainlayout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\mainlayout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\adventures\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\source\\repos\\toqaproject\\lastproject\\adventures\\adventures\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\adventures\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\source\\repos\\toqaproject\\lastproject\\adventures\\adventures\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\adventures\\asset\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\asset\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\adventures\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|c:\\users\\is laptop\\source\\repos\\toqaproject\\lastproject\\adventures\\adventures\\traits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690604B4-440F-4A44-A91C-08A60E5143EA}|Adventures\\Adventures.csproj|solutionrelative:adventures\\traits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,87 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "traits.cs",
-              "DocumentMoniker": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\traits.cs",
-              "RelativeDocumentMoniker": "Adventures\\traits.cs",
-              "ToolTip": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\traits.cs",
-              "RelativeToolTip": "Adventures\\traits.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:40:45.059Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.aspx",
-              "DocumentMoniker": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\Home.aspx",
-              "RelativeDocumentMoniker": "Adventures\\Home.aspx",
-              "ToolTip": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\Home.aspx",
-              "RelativeToolTip": "Adventures\\Home.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-09T11:31:29.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "SignUp.aspx.cs",
               "DocumentMoniker": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\SignUp.aspx.cs",
               "RelativeDocumentMoniker": "Adventures\\SignUp.aspx.cs",
               "ToolTip": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\SignUp.aspx.cs",
               "RelativeToolTip": "Adventures\\SignUp.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T00:00:41.941Z"
+              "WhenOpened": "2024-05-09T21:48:53.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "traits.cs",
+              "DocumentMoniker": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\traits.cs",
+              "RelativeDocumentMoniker": "Adventures\\traits.cs",
+              "ToolTip": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\traits.cs",
+              "RelativeToolTip": "Adventures\\traits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:32:33.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SignUp.aspx",
               "DocumentMoniker": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\SignUp.aspx",
               "RelativeDocumentMoniker": "Adventures\\SignUp.aspx",
               "ToolTip": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\SignUp.aspx",
               "RelativeToolTip": "Adventures\\SignUp.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-08T23:30:34.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\Login.aspx",
-              "RelativeDocumentMoniker": "Adventures\\Login.aspx",
-              "ToolTip": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\Login.aspx",
-              "RelativeToolTip": "Adventures\\Login.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-08T21:44:23.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Main.css",
-              "DocumentMoniker": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\Asset\\CSS\\Main.css",
-              "RelativeDocumentMoniker": "Adventures\\Asset\\CSS\\Main.css",
-              "ToolTip": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\Asset\\CSS\\Main.css",
-              "RelativeToolTip": "Adventures\\Asset\\CSS\\Main.css",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwDsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-08T21:36:07.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainLayout.Master",
-              "DocumentMoniker": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\MainLayout.Master",
-              "RelativeDocumentMoniker": "Adventures\\MainLayout.Master",
-              "ToolTip": "C:\\Users\\is laptop\\source\\repos\\ToqaProject\\lastproject\\Adventures\\Adventures\\MainLayout.Master",
-              "RelativeToolTip": "Adventures\\MainLayout.Master",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-08T21:33:10.307Z",
+              "WhenOpened": "2024-05-09T21:30:34.988Z",
               "EditorCaption": ""
             }
           ]

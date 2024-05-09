@@ -15,13 +15,10 @@
               <div class="price"> <del>120$</del> 80$ </div>
             </div>
             <div class="single-product col-12 col-md-6 col-lg-3">
-<<<<<<< HEAD
-              <img src="https://www.neelwafurat.com/images/lb/abookstore/covers/normal/242/242426.jpg" width="250" height="375" alt="">
-              <h2 class="title">title</h2>
-=======
-              <img src="https://www.neelwafurat.com/images/lb/abookstore/covers/normal/242/242426.jpg" width="250" height="375" alt="">
+
+              <img src="Asset/images/Products/2.jpg" width="250" height="375" alt="">
               <h2 class="title">البطيخة</h2>
->>>>>>> 33bbab0cfdc7e039aa5da32d9e28432be16ea9b6
+
               <div class="price"> <del>120$</del> 80$ </div>
             </div>
             <div class="single-product col-12 col-md-6 col-lg-3">
