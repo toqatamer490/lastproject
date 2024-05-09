@@ -68,12 +68,26 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Asset\CSS\Main.css" />
+    <Content Include="Asset\images\Products\1.jpg" />
+    <Content Include="Asset\images\Products\2.jpg" />
+    <Content Include="Asset\images\Products\3.jpg" />
+    <Content Include="Asset\images\Products\4.jpg" />
+    <Content Include="Asset\images\Products\5.jpg" />
+    <Content Include="Asset\images\Products\6.jpg" />
     <Content Include="Asset\JS\main.js" />
+    <Content Include="Home.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="SignUp.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -108,9 +122,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Asset\images\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
