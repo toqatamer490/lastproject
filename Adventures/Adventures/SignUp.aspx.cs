@@ -17,7 +17,8 @@ namespace Adventures
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            SqlDataSource1.Insert();
+          int status =   SqlDataSource1.Insert();
+            Label5.Text = status.ToString();
         }
     }
 }
